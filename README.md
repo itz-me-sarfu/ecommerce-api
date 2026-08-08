@@ -53,8 +53,8 @@ POST /api/auth/register
 Content-Type: application/json
 
 {
-  "fullName": "Asha Sharma",
-  "email": "asha@example.com",
+  "fullName": "Sarfaraz Ahmad",
+  "email": "sarfaraz@example.com",
   "password": "Password@123"
 }
 ```
